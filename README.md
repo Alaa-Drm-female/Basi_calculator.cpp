@@ -21,4 +21,4 @@ This project is a simple calculator written in C++ that can perform basic arithm
 4. Compile the program using the following command:
    ```bash
    g++ -o calculator calculator.cpp
-للg
+GOOD LUCK 💚🫰
